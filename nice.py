@@ -38,7 +38,9 @@ def FZZL():
   print("                  别人笑我忒疯癫，我笑自己命太贱；  ")
   print("                  不见满街漂亮妹，哪个归得程序员？  ")
 
+
 FZZL()
+
 #
 #                      江城子 . 程序员之歌
 #
@@ -52,3 +54,4 @@ FZZL()
 #
 #
 print("zhenhao ")
+print('sss')
