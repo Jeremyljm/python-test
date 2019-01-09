@@ -3,7 +3,7 @@
 """
 __title__ = ''
 __author__ = 'Administrator'
-__mtime__ = '2019/1/2'
+__mtime__ = '2019/1/3'
 # 我不懂什么叫年少轻狂，只知道胜者为王
               ┏┓      ┏┓
             ┏┛┻━━━┛┻┓
@@ -18,15 +18,12 @@ __mtime__ = '2019/1/2'
                   ┃┫┫  ┃┫┫
                   ┗┻┛  ┗┻┛
 """
-print('2019.1.3')
-print("新的一天y哟")
-print("新的一天")
-print("加油")
-# 这是一个注释
-print("真香系列")
-"""
-hahahhahaha 
-"""
-print("d")
-qq_number = "1234567"  ;  qq_password = "123"
+#1. 定义一个变量记录 QQ号码
+qq_number = "123456"
+
+#2. 定义一个变量记录 QQ密码
+qq_password = "123"
+
 print(qq_number)
+print(qq_password)
+

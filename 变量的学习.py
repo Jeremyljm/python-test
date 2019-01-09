@@ -3,7 +3,7 @@
 """
 __title__ = ''
 __author__ = 'Administrator'
-__mtime__ = '2019/1/2'
+__mtime__ = '2019/1/9'
 # 我不懂什么叫年少轻狂，只知道胜者为王
               ┏┓      ┏┓
             ┏┛┻━━━┛┻┓
@@ -18,15 +18,30 @@ __mtime__ = '2019/1/2'
                   ┃┫┫  ┃┫┫
                   ┗┻┛  ┗┻┛
 """
-print('2019.1.3')
-print("新的一天y哟")
-print("新的一天")
-print("加油")
-# 这是一个注释
-print("真香系列")
+
 """
-hahahhahaha 
+i = 10
+
+f = 10.5
+
+b = True
+
+print(i + f)
+
+print(i + b)
+
+print(i * f)
+
+print(f - b)
 """
-print("d")
-qq_number = "1234567"  ;  qq_password = "123"
-print(qq_number)
+first_name = "张"
+
+last_name = "三"
+
+print((last_name + first_name) * 10 )
+
+print(first_name + "10")
+
+print(first_name + '10')
+
+type()

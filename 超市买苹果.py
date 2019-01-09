@@ -3,7 +3,7 @@
 """
 __title__ = ''
 __author__ = 'Administrator'
-__mtime__ = '2019/1/2'
+__mtime__ = '2019/1/3'
 # 我不懂什么叫年少轻狂，只知道胜者为王
               ┏┓      ┏┓
             ┏┛┻━━━┛┻┓
@@ -18,15 +18,33 @@ __mtime__ = '2019/1/2'
                   ┃┫┫  ┃┫┫
                   ┗┻┛  ┗┻┛
 """
-print('2019.1.3')
-print("新的一天y哟")
-print("新的一天")
-print("加油")
-# 这是一个注释
-print("真香系列")
-"""
-hahahhahaha 
-"""
-print("d")
-qq_number = "1234567"  ;  qq_password = "123"
-print(qq_number)
+# 1.定义的苹果的单价变量
+price = 8.5
+
+# 2.挑选苹果的重量变量
+weight = 7.5
+
+# 3.计算苹果的价格
+money = price * weight
+
+# 4.只要买苹果就返5元
+money = money - 5
+
+print(money)
+
+
+
+
+# 1.定义苹果的单价
+price = 10
+
+# 2.定义苹果的重量
+weight = 2.5
+
+# 3.苹果的价钱
+money = price * weight
+
+# 4.只要买苹果就返10元
+money = money - 5
+
+print(money)
